@@ -14,7 +14,7 @@
 }
 
 html {
-  cursor: url("sticker1.png") 40 42, auto;
+  cursor: url("files/cursor_default.png") 40 42, auto;
 }
 
 body {
@@ -105,7 +105,7 @@ a:hover {
 a {
   text-decoration: none;
   color: var(--text-color);
-  cursor: url("sticer3.png") 40 42, auto;
+  cursor: url("files/cursor_action.png") 40 42, auto;
 }
 
 a:hover {
